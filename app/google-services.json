@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "126857893799",
+    "firebase_url": "https://partnertaxiproject.firebaseio.com",
+    "project_id": "partnertaxiproject",
+    "storage_bucket": "partnertaxiproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126857893799:android:abe919836f3ff986",
+        "android_client_info": {
+          "package_name": "ru.partnertaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126857893799-ce093ijlm933lulf45l7l0jg27qt3kla.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.partnertaxi",
+            "certificate_hash": "d03edd61e156d91a99b4024e0411415ea58ed8a4"
+          }
+        },
+        {
+          "client_id": "126857893799-ohtlosnbr24ula58hkc4mcd649c8hip6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzKT8ltj3ztS05U1pFRRAfVqS2nCzh3L0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126857893799-ohtlosnbr24ula58hkc4mcd649c8hip6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
