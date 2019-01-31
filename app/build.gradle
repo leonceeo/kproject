@@ -37,6 +37,7 @@ dependencies {
     implementation "com.android.support:appcompat-v7:${supportLibVer}"
     implementation 'com.android.support.constraint:constraint-layout:1.1.3'
     implementation "com.google.android.gms:play-services-base:16.1.0"
+    implementation "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version"
 
 }
 
